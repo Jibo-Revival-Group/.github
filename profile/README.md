@@ -9,3 +9,5 @@ Due to our FOSS nature, we allow anybody to contribute to the project. If you'd 
 - [Website](https://jiborevived.com)
 - [Discord](https://discord.gg/CBVJzkRGwN)
 - [Guides](https://jibo.guide)
+- [5x1 Server](https://5x1.com)
+- [OpenJibo Server](https://openjibo.com)
